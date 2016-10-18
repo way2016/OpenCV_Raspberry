@@ -1,0 +1,3 @@
+/Users/chuanway/Documents/opencv/learn_02/CMakeFiles/rebuild_cache.dir
+/Users/chuanway/Documents/opencv/learn_02/CMakeFiles/edit_cache.dir
+/Users/chuanway/Documents/opencv/learn_02/CMakeFiles/DisplayImage.dir
